@@ -10,7 +10,8 @@ web development, and IoT systems.
 I'm currently expanding my skills in AI agent development
 and DevOps, with a focus on building scalable, reliable software.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/brendan-tan-bt/)
+[Portfolio](https://brendan-tan.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/brendan-tan-bt/)
 
 ## Featured Projects
 
