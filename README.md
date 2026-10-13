@@ -1,7 +1,7 @@
 # Hi, I'm Brendan 👋
 
-I'm a final-year Software Engineering student at the
-Singapore Institute of Technology, seeking software engineering opportunities.
+I'm a Software Engineering Intern at HTX and a final-year
+Software Engineering student at the Singapore Institute of Technology.
 
 I'm interested in building AI-powered applications and agents
 that solve real-world problems. My projects span Android,
