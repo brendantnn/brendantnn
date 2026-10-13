@@ -35,8 +35,3 @@ image classification, sensor monitoring, and a web dashboard.
 
 **Technologies:** Python, TensorFlow Lite, MQTT, Next.js,
 Prisma, PostgreSQL, Raspberry Pi
-
----
-
-These projects were developed collaboratively.
-See the repositories for implementation details and team attribution.
