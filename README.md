@@ -16,10 +16,11 @@ and DevOps, with a focus on building scalable, reliable software.
 ## Featured Projects
 
 ### [AI Podiatry Assistant](https://github.com/brendantnn/ai-podiatry-assistant)
-An AI-powered podiatry application featuring an AI agent
-and dedicated patient and podiatrist interfaces.
+A multimodal AI agent connecting conversational symptom intake,
+image-based assessment, and appointment booking, with a companion
+assistant for podiatrists.
 
-**Technologies:** JavaScript, HTML, CSS, Firebase
+**Technologies:** JavaScript, Node.js, Express, OpenAI, Firebase, Twilio
 
 ### [IPPT Fitness Tracker](https://github.com/brendantnn/ippt-fitness-tracker)
 An Android fitness application with pose-based exercise counting,
